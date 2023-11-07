@@ -1,0 +1,8 @@
+nama = input("masukkan nama anda: ")
+tahun_lulus = input("anda lulus tahun kapan: ")
+tipe_sekolah = input("SMA/SMK: ")
+jurusa =("TKJ/RPL")
+bhs_pemrograman = "python"
+
+if tipe_sekolah == "SMK":
+    input("bahas apa yang anda pelajari: ")
